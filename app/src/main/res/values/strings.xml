@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Simple Notes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="note_updated">Note Updated</string>
+    <string name="note_created">Note created</string>
+    <string name="input_error_msg">Input field required</string>
+    <string name="delete">Deleted</string>
+    <string name="new_str">New</string>
+    <string name="edited">Edited</string>
+    <string name="already_deleted">Note already deleted</string>
+</resources>
